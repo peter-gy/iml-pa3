@@ -1,5 +1,5 @@
 {
-  "name": "TeX Live base",
+  "name": "IML Assignment",
   "dockerFile": "Dockerfile",
   "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
 }
