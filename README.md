@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peter-gy/iml-pa3/HEAD)
-[![Open in GitHub Codespaces](https://img.shields.io/badge/launch-Codespaces-blue)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=313704611&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/peter-gy/iml-pa3)
 
 # Steps To Reproduce
 
@@ -13,7 +13,7 @@ You can run the notebook with zero local setup via binder: [https://mybinder.org
 
 > Dev Container, remotely
 
-You can run and tweak the notebook with zero local setup via GitHub Codespaces: [https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=313704611&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=313704611&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope).
+You can run and tweak the notebook with zero local setup via GitHub Codespaces: [https://codespaces.new/peter-gy/iml-pa3](https://codespaces.new/peter-gy/iml-pa3)
 
 ## Via VS Code Dev Container
 
